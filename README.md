@@ -1,2 +1,2 @@
 # sanson
-Sansón Carlino Pug negro
+Sansón Carlino Pug
